@@ -15,9 +15,9 @@ google-auth==1.18.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 graphviz==0.8.4
-grpcio==1.30.0
-h5py==2.10.0
-idna==2.10
+grpcio==1.38.1
+h5py==3.3.0
+idna==3.2
 imageio==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
@@ -25,7 +25,7 @@ Markdown==3.2.2
 matplotlib==3.2.2
 mxnet==1.6.0
 networkx==2.4
-numpy==1.18.5
+numpy=1.21.1
 oauthlib==3.1.0
 opencv-python==4.5.3.56
 opt-einsum==3.2.1
